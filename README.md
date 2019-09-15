@@ -1,4 +1,4 @@
-# Greenfinch_Demo
+# Greenfinch_UI
 Sign Up page for the given use case
 
 1. Create a folder in the local machine.
