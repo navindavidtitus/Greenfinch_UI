@@ -17,7 +17,14 @@ label {
     height: 120px;
     animation: spin 2s linear infinite;
   }
-  
+  .logo {
+    height: 100px;
+    width: auto;
+    padding: 0px;
+    display: block;
+    margin: 0 auto;
+    
+}
   @keyframes spin {
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
