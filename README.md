@@ -6,7 +6,7 @@ Sign Up page for the given use case
 2. Open CLI/GitBash inside the created folder.
 
 3. Use the below command and URL to clone the respository:
-git clone https://github.com/navindavidtitus/Greenfinch_Demo.git
+git clone https://github.com/navindavidtitus/Greenfinch_UI.git
 
 4. Install node modules using the command:
 npm i -g @angular/cli
